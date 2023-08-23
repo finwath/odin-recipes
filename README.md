@@ -6,7 +6,7 @@ Project is to create a main web page that will reference sub pages containing a 
 - Lasagna
 - Puerto Rican Mofongo
 - Hummus
-- Baba Ganouosh
+- Baba Ghanouosh
 
 Skills Demonstrated:
 - Basic HTML code structure
